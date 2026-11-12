@@ -1,0 +1,7 @@
+/* Brand colours and fonts: change them here and every page updates. */
+:root{
+  --magenta:#9B3B74; --magenta-dark:#7a2d5b; --teal:#006F8E; --amber:#B8691F; --blue:#2E6EA6;
+  --ink:#1F1F1F; --text:#3a3a3a; --muted:#6b6b6b; --soft:#faf5f8; --line:#eadfe6; --white:#fff; --wa:#25D366;
+  --font-head:'Playfair Display',Georgia,serif; --font-body:'Poppins',Arial,sans-serif;
+  --radius:14px; --shadow:0 8px 24px rgba(31,31,31,.10);
+}
